@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_65\bin\javac.exe" -classpath .;json-simple-1.1.1.jar JiRestProxyServer.java

@@ -1,0 +1,6 @@
+{
+	"method": "POST",
+	"url": "https://apiendpoint.gressquel.com/api/HelloWorld",
+	"body": "{\"name\": \"Azure\"}",
+	"headers": ["User-Agent: JiREST", "Host: apiendpoint.gressquel.com", "Accept: application/json", "Content-type: application/json"]
+}
